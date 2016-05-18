@@ -39,7 +39,7 @@ import shapefile
 r = shapefile.Reader("IPA_Map/Untitled")
 shapes = r.shapes()
 
-for iii in range(1979,2016):
+for iii in range(2015,2016):
     
     year =  iii;
     
