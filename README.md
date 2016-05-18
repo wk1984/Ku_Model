@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# K_model
-=======
-# K_model
->>>>>>> origin/master
+Analytical Permafrost Model
+
+Calculate Active Layer Thickness (ALT) and Temperature on the Top of Permafrost (TTOP)
